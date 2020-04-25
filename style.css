@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.searchBar {
+    padding: 1% 35%;
+}
+
+.bodyPage {
+    margin: 5% 20% 2% 20%;
+    background-color: rgb(211, 211, 218);
+}
+
+.myButton {
+    margin: 0% 45% 15% 45%;
+}
